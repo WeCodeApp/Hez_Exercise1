@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "2025 - Upcoming Trainings",
+        "date": "2025-04-30",
+        "likes": 0
+    },
+    {
+        "id": 2,
+        "name": "Kickstart of June Training",
+        "date": "2025-06-01",
+        "likes": 0
+    },
+    {
+        "id": 3,
+        "name": "Network and Database Training",
+        "date": "2025-07-21",
+        "likes": 0
+    },
+    {
+        "id": 4,
+        "name": "Web Development Training Registration",
+        "date": "2025-08-15",
+        "likes": 0
+    }
+]
