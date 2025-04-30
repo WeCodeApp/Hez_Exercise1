@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-center justify-center min-h-screen bg-blue-100">
+  <div class="flex items-center justify-center min-h-screen bg-purple-100">
     <div class="container mt-5">
       <h1 class="mb-4 text-center text-3xl font-bold">Event Management App</h1>
 
